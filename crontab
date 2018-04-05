@@ -21,4 +21,4 @@
 # 
 # m h  dom mon dow   command
 
-*/30 * * * * /bin/bash /home/bashscripts/gitscript.sh 
+*/30 * * * * /bin/bash /home/bashscripts/fnalgitscript.sh 
